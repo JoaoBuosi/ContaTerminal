@@ -1,47 +1,23 @@
-💰 Conta Bancária no Terminal (Java)
+💰 Conta Bancária no Terminal – Java
 
-Projeto desenvolvido em Java simulando uma conta bancária via terminal, aplicando conceitos de Programação Orientada a Objetos (POO), entrada de dados com Scanner e regras básicas de negócio.
+Projeto em Java que simula o funcionamento de uma conta bancária através do terminal, aplicando conceitos fundamentais de Programação Orientada a Objetos (POO) e entrada de dados via Scanner.
 
-📌 Funcionalidades
+Funcionalidades:
+Criação de conta bancária
+Depósito de valores
+Saque com validação de saldo
+Exibição de saldo
+Exibição dos dados da conta
 
-Criar conta bancária informando:
-
-Número da conta
-
-Agência
-
-Nome do titular
-
-Saldo inicial
-
-Realizar depósitos
-
-Realizar saques com validação de saldo
-
-Exibir dados da conta
-
-Exibir saldo atualizado
-
-🧠 Conceitos aplicados
-
+Conceitos utilizados:
 Programação Orientada a Objetos (POO)
-
 Encapsulamento
-
-Construtor
-
+Construtores
 Métodos
+Estruturas condicionais
+Entrada de dados pelo terminal
 
-Estruturas condicionais (if / else)
-
-Entrada de dados pelo terminal (Scanner)
-
-Organização de código em classes
-
-🛠️ Tecnologias utilizadas
-
+Tecnologias:
 Java
-
 IntelliJ IDEA
-
-Git & GitHub
+Git e GitHub
